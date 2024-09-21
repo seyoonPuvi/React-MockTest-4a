@@ -1,0 +1,15 @@
+.failure-cont {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 2rem;
+}
+
+.failure-image {
+  height: 41rem;
+  width: 49rem;
+  object-fit: cover;
+  object-position: center;
+}
